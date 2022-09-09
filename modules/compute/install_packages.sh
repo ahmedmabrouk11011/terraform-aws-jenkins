@@ -5,5 +5,3 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install default-jre -y
 sudo apt install jenkins -y
 sudo systemctl start jenkins
-
-sudo apt install python3
